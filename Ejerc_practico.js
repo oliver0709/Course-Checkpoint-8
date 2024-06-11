@@ -1,5 +1,3 @@
-//
-
 
 const miLista = ["velma", "exploradora", "jane", "john", "harry"];
 
